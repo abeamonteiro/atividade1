@@ -1,6 +1,6 @@
 Iniciando aqui o curso em BackEnd pelo projeto Todas em Tech da iniciativa Reprograma, turma On16. Este é o meu primeiro repositório e a partir dele pude treinar um pouco a funcionalidade do GitHub e as possibilidades de versionamento do código. Estas práticas devem se repetir durante as 17 semanas restantes do curso.
 
-Repositorio da aula: https://github.com/reprograma/On16-TodasEmTech-S1-Git
+Repositório da aula: https://github.com/reprograma/On16-TodasEmTech-S1-Git
 
 # Conteúdo estudado na semana
 1. Conceitos Básicos - O que é programação?, Backend x Frontend, Cliente <-> Servidor
