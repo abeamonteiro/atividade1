@@ -1,3 +1,4 @@
+Iniciando aqui o curso em BackEnd pelo projeto Todas em Tech da iniciativa Reprograma, turma On16. Este é o meu primeiro repositório e a partir dele pude treinar um pouco a funcionalidade do GitHub e das possibilidades de versionamento do código. Estas práticas devem se repetir durante as 17 semanas restantes do curso.
 # Conteúdo estudado na semana
 1. Conceitos Básicos - O que é programação?, Backend x Frontend, Cliente <-> Servidor
 2. O que é um Algorítimo? - pseudocódigos, fluxogramas, linguagem de programação
